@@ -42,8 +42,8 @@ My research focuses on **learning robust representations from high-dimensional, 
   *IEEE Transactions on Multimedia (TMM), 2026*
 
 - **Weighted Subspace Graph Learning for High-Dimensional Data**
-  
- *Guojie Li; Zhiwen Yu; Ziwei Fan; Kaixiang Yang; C. L. Philip Chen*
+
+  *Guojie Li; Zhiwen Yu; Ziwei Fan; Kaixiang Yang; C. L. Philip Chen*
  
   *IEEE Transactions on Knowledge and Data Engineering, 2026*
 
