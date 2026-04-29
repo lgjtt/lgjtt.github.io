@@ -14,7 +14,8 @@ redirect_from:
 
 ## 👋 About Me
 
-I am a researcher in machine learning, focusing on **robust representation learning under label scarcity and data heterogeneity**.  
+I am a third-year Ph.D. candidate in Computer Science and Technology at South China University of Technology (SCUT), advised by Prof. Zhiwen Yu, and a member of the Data Science and Artificial Intelligence Lab.
+My research focuses on **robust representation learning under label scarcity and data heterogeneity**.   
 My research lies at the intersection of:
 
 - Multi-view / Multi-modal Learning
