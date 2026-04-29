@@ -42,12 +42,25 @@ My research lies at the intersection of:
 
 ---
 
-## 🧠 Current Projects
+## 📄 Selected Publications
 
-- Semi-supervised multi-view clustering with dynamic consistency regularization  
-- Self-supervised continuous hard distillation frameworks  
-- Cross-modal alignment for heterogeneous sensor data  
-- Intelligent diagnosis systems (e.g., sleep apnea analysis)  
+- **Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering**  
+  *IEEE Transactions, 2026*
+
+- **Semi-Supervised Ensemble Classifier Based on Distance Constraint for High-Dimensional Data**  
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMC), 2026*
+
+- **Incremental Semi-Supervised Learning With Adaptive Locality Preservation for High-Dimensional Data**  
+  *IEEE Transactions on Artificial Intelligence (TAI), 2025*
+
+- **Ensemble-Enhanced Semi-Supervised Learning With Optimized Graph Construction for High-Dimensional Data**  
+  *IEEE Transactions, 2025*
+
+- **Weighted Subspace Graph Learning for High-Dimensional Data**  
+  *IEEE Transactions, 2025*
+
+- **Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches**  
+  *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024*
 
 ---
 
