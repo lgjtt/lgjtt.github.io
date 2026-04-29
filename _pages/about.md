@@ -44,22 +44,28 @@ My research lies at the intersection of:
 
 ## 📄 Selected Publications
 
-- **Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering**  
-  *IEEE Transactions, 2026*
+- **Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering**
+  *Guojie Li; Zhiwen Yu; Kaixiang Yang; Jianming Lv; C. L. Philip Chen*
+  *IEEE Transactions on Multimedia (TMM), 2026*
 
-- **Semi-Supervised Ensemble Classifier Based on Distance Constraint for High-Dimensional Data**  
-  *IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMC), 2026*
+- **Weighted Subspace Graph Learning for High-Dimensional Data**
+ *Guojie Li; Zhiwen Yu; Ziwei Fan; Kaixiang Yang; C. L. Philip Chen*
+  *IEEE Transactions on Knowledge and Data Engineering, 2026*
 
-- **Incremental Semi-Supervised Learning With Adaptive Locality Preservation for High-Dimensional Data**  
+- **Semi-Supervised Ensemble Classifier Based on Distance Constraint for High-Dimensional Data**
+  *Guojie Li; Ziwei Fan; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen*
+  *IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMCA), 2026*
+
+- **Incremental Semi-Supervised Learning With Adaptive Locality Preservation for High-Dimensional Data**
+  *Guojie Li; Zhiwen Yu; Kaixiang Yang; Ziwei Fan; C. L. Philip Chen*
   *IEEE Transactions on Artificial Intelligence (TAI), 2025*
 
-- **Ensemble-Enhanced Semi-Supervised Learning With Optimized Graph Construction for High-Dimensional Data**  
-  *IEEE Transactions, 2025*
+- **Ensemble-Enhanced Semi-Supervised Learning With Optimized Graph Construction for High-Dimensional Data**
+  *Guojie Li; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen; Xuelong Li*
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025*
 
-- **Weighted Subspace Graph Learning for High-Dimensional Data**  
-  *IEEE Transactions, 2025*
-
-- **Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches**  
+- **Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches**
+  *Guojie Li; Zhiwen Yu; Kaixiang Yang; Mianfen Lin; C. L. Philip Chen*
   *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024*
 
 ---
