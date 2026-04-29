@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/lgjtt/lgjtt.github.io/blob/master/images/lgj.jpg"
+  avatar           : "../images/lgj.jpg"
   name             : "Guojie Li"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Student"
