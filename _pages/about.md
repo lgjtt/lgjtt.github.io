@@ -47,7 +47,7 @@ My research focuses on learning robust representations from high-dimensional, no
 
 > **[Semi-Supervised Ensemble Classifier Based on Distance Constraint for High-Dimensional Data](https://ieeexplore.ieee.org/document/11249808)**
   <br>***Guojie Li**; Ziwei Fan; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen*
-  <br>*IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMCA, CCF A), 2026*
+  <br>*IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMCA, 一区Top), 2026*
 
 > **[Incremental Semi-Supervised Learning With Adaptive Locality Preservation for High-Dimensional Data](https://ieeexplore.ieee.org/document/10964733)**
   <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; Ziwei Fan; C. L. Philip Chen*
