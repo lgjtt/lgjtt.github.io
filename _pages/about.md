@@ -77,4 +77,4 @@ My research focuses on **learning robust representations from high-dimensional, 
 
 ## 🏆 Honors and Awards 
 
-> 美国大学生数据建模大赛特等奖
+> 2022美国大学生数据建模大赛特等奖 (美赛O奖, 获奖率0.16%, INFORMS Award冠名)
