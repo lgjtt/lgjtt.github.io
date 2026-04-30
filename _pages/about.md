@@ -37,15 +37,15 @@ My research focuses on **learning robust representations from high-dimensional, 
 
 ## 📄 Selected Publications
 
-- **[Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering(https://ieeexplore.ieee.org/document/11370268)**
+- **[Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering](https://ieeexplore.ieee.org/document/11370268)**
   
   *<u>Guojie Li</u>; Zhiwen Yu; Kaixiang Yang; Jianming Lv; C. L. Philip Chen*
   
   *IEEE Transactions on Multimedia (TMM), 2026*
 
-- **Weighted Subspace Graph Learning for High-Dimensional Data**
+- **[Weighted Subspace Graph Learning for High-Dimensional Data](https://ieeexplore.ieee.org/document/11359798)**
 
-  *Guojie Li; Zhiwen Yu; Ziwei Fan; Kaixiang Yang; C. L. Philip Chen*
+  *<u>Guojie Li</u>; Zhiwen Yu; Ziwei Fan; Kaixiang Yang; C. L. Philip Chen*
  
   *IEEE Transactions on Knowledge and Data Engineering, 2026*
 
