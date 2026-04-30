@@ -58,8 +58,8 @@ My research focuses on learning robust representations from high-dimensional, no
   <br>*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A), 2025*
 
 > **[Diverse models, united goal: a comprehensive survey of ensemble learning](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cit2.70030)**
-   <br>Ziwei Fan, Zhiwen Yu, Kaixiang Yang, Wuxing Chen, Xiaoqing Liu, **Guojie Li**, Xianling Yang, CL Philip Chen
-   <br> CAAI Transactions on Intelligence Technology, 2025
+   <br>*Ziwei Fan, Zhiwen Yu, Kaixiang Yang, Wuxing Chen, Xiaoqing Liu, **Guojie Li**, Xianling Yang, CL Philip Chen*
+   <br> *CAAI Transactions on Intelligence Technology, 2025*
 
 
 > **[Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches](https://ieeexplore.ieee.org/document/10521775)**
