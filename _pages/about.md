@@ -14,8 +14,8 @@ redirect_from:
 
 ## 👋 About Me
 
-I am a third-year Ph.D. candidate in Computer Science and Technology at South China University of Technology (SCUT), advised by Prof. Zhiwen Yu, and a member of the Data Science and Artificial Intelligence Lab.
-My research focuses on **robust representation learning under label scarcity and data heterogeneity**.   
+I am a third-year Ph.D. candidate in Computer Science and Technology at South China University of Technology (SCUT), advised by Prof. **Zhiwen Yu**, and a member of the Data Science and Artificial Intelligence Lab.
+My research focuses on robust representation learning under label scarcity and data heterogeneity.   
 My research lies at the intersection of:
 
 - Weakly & Semi-supervised Learning  
@@ -26,7 +26,7 @@ My research lies at the intersection of:
 ---
 
 ## 🔬 Research Highlights
-My research focuses on **learning robust representations from high-dimensional, noisy, and label-scarce data**, with key contributions in:
+My research focuses on learning robust representations from high-dimensional, noisy, and label-scarce data, with key contributions in:
 
 - **Semi-supervised learning**: Ensemble and incremental frameworks for data with limited labels
 - **Graph learning**: Structure-aware and subspace-based similarity modeling  
