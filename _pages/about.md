@@ -18,9 +18,10 @@ I am a third-year Ph.D. candidate in Computer Science and Technology at South Ch
 My research focuses on **robust representation learning under label scarcity and data heterogeneity**.   
 My research lies at the intersection of:
 
-- Multi-view / Multi-modal Learning
 - Weakly & Semi-supervised Learning  
-- High-Dimensional and Incomplete Data Modeling  
+- High-Dimensional and Incomplete Data Modeling 
+- Multi-view / Multi-modal Learning
+
 
 ---
 
@@ -36,9 +37,9 @@ My research focuses on **learning robust representations from high-dimensional, 
 
 ## 📄 Selected Publications
 
-- **Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering**
+- **[Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering(https://ieeexplore.ieee.org/document/11370268)**
   
-  *Guojie Li; Zhiwen Yu; Kaixiang Yang; Jianming Lv; C. L. Philip Chen*
+  *<u>Guojie Li</u>; Zhiwen Yu; Kaixiang Yang; Jianming Lv; C. L. Philip Chen*
   
   *IEEE Transactions on Multimedia (TMM), 2026*
 
