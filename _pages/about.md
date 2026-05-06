@@ -49,18 +49,13 @@ My research focuses on learning robust representations from high-dimensional, no
   <br>***Guojie Li**; Ziwei Fan; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen*
   <br>*IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMCA, 一区Top), 2026*
 
-> **[Incremental Semi-Supervised Learning With Adaptive Locality Preservation for High-Dimensional Data](https://ieeexplore.ieee.org/document/10964733)**
-  <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; Ziwei Fan; C. L. Philip Chen*
-  <br>*IEEE Transactions on Artificial Intelligence (TAI), 2025*
-
 > **[Ensemble-Enhanced Semi-Supervised Learning With Optimized Graph Construction for High-Dimensional Data](https://ieeexplore.ieee.org/document/10735110)**
   <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen; Xuelong Li*
   <br>*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A), 2025*
 
-> **[Diverse models, united goal: a comprehensive survey of ensemble learning](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cit2.70030)**
-   <br>*Ziwei Fan, Zhiwen Yu, Kaixiang Yang, Wuxing Chen, Xiaoqing Liu, **Guojie Li**, Xianling Yang, CL Philip Chen*
-   <br> *CAAI Transactions on Intelligence Technology, 2025*
-
+> **[Incremental Semi-Supervised Learning With Adaptive Locality Preservation for High-Dimensional Data](https://ieeexplore.ieee.org/document/10964733)**
+  <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; Ziwei Fan; C. L. Philip Chen*
+  <br>*IEEE Transactions on Artificial Intelligence (TAI), 2025*
 
 > **[Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches](https://ieeexplore.ieee.org/document/10521775)**
   <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; Mianfen Lin; C. L. Philip Chen*
