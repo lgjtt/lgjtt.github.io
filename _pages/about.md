@@ -36,6 +36,9 @@ My research focuses on learning robust representations from high-dimensional, no
 ---
 
 ## 📄 Selected Publications
+> **[MLL-NDLSR: A Unified Multi-Label Learning Method for Missing Labels](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-52100-0)**
+  <br>*Kaixiang YANG, Haolin SHEN, **Guojie LI**✉, Guoxian YU, Zhiwen YU, C. L. Philip Chen*
+  <br>*Frontiers of Computer Science (FCS, 中科院二区), 2026*
 
 > **[Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering](https://ieeexplore.ieee.org/document/11370268)**
   <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; Jianming Lv; C. L. Philip Chen*
