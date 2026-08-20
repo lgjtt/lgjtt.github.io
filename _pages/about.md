@@ -36,6 +36,10 @@ My research focuses on learning robust representations from high-dimensional, no
 ---
 
 ## 📄 Selected Publications
+> **[Global Semantic mixup-regularized GCN for multi-view semi-supervised classification](https://www.sciencedirect.com/science/article/abs/pii/S0031320326016079)**
+  <br>*Zhiwen Yu, Ruizhi Huang, **Guojie LI**✉, Jane You, C. L. Philip Chen*
+  <br>*Pattern Recognition (PR, 中科院一区), 2026*
+
 > **[MLL-NDLSR: A Unified Multi-Label Learning Method for Missing Labels](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-52100-0)**
   <br>*Kaixiang YANG, Haolin SHEN, **Guojie LI**✉, Guoxian YU, Zhiwen YU, C. L. Philip Chen*
   <br>*Frontiers of Computer Science (FCS, 中科院二区), 2026*
