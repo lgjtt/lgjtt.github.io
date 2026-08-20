@@ -18,9 +18,10 @@ I am a third-year Ph.D. candidate in Computer Science and Technology at South Ch
 My research focuses on robust representation learning under label scarcity and data heterogeneity.   
 My research lies at the intersection of:
 
+- Multi-view / Multi-modal Learning
 - Weakly & Semi-supervised Learning  
 - High-Dimensional and Incomplete Data Modeling 
-- Multi-view / Multi-modal Learning
+
 
 
 ---
