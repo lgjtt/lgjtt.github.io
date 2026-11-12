@@ -26,6 +26,14 @@ My research lies at the intersection of:
 ---
 
 ## 📄 Selected Publications
+> **[Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering](https://ieeexplore.ieee.org/document/11370268)**
+  <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; Jianming Lv; C. L. Philip Chen*
+  <br>*IEEE Transactions on Multimedia (TMM, CCF A), 2026*
+
+> **[Weighted Subspace Graph Learning for High-Dimensional Data](https://ieeexplore.ieee.org/document/11359798)**
+  <br>***Guojie Li**; Zhiwen Yu; Ziwei Fan; Kaixiang Yang; C. L. Philip Chen*
+  <br>*IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF A), 2026*
+
 > **[Global Semantic mixup-regularized GCN for multi-view semi-supervised classification](https://www.sciencedirect.com/science/article/abs/pii/S0031320326016079)**
   <br>*Zhiwen Yu, Ruizhi Huang, **Guojie LI**✉, Jane You, C. L. Philip Chen*
   <br>*Pattern Recognition (PR, 中科院一区), 2026*
@@ -34,13 +42,13 @@ My research lies at the intersection of:
   <br>*Kaixiang YANG, Haolin SHEN, **Guojie LI**✉, Guoxian YU, Zhiwen YU, C. L. Philip Chen*
   <br>*Frontiers of Computer Science (FCS, 中科院二区), 2026*
 
-> **[Pseudo-Label Similarity Graph-Driven Multi-View Contrastive Clustering](https://ieeexplore.ieee.org/document/11370268)**
-  <br>***Guojie Li**; Zhiwen Yu; Kaixiang Yang; Jianming Lv; C. L. Philip Chen*
-  <br>*IEEE Transactions on Multimedia (TMM, CCF A), 2026*
+> **[AIVC: Mitigating View Incompleteness and Label Scarcity under Challenging Multi-View Conditions](https://doi.org/10.1109/TBDATA.2026.3750376)**
+  <br>Ziyang Dong, **Guojie Li**✉, Zhiwen Yu, Mianfen Lin, C. L. Philip Chen
+  <br>*IEEE Transactions on Big Data (TBD), 2026*
 
-> **[Weighted Subspace Graph Learning for High-Dimensional Data](https://ieeexplore.ieee.org/document/11359798)**
-  <br>***Guojie Li**; Zhiwen Yu; Ziwei Fan; Kaixiang Yang; C. L. Philip Chen*
-  <br>*IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF A), 2026*
+> **[Semi-Supervised Time Series Classification: Collaborative Learning of Shallow and Deep Features in Time-Frequency Domain](https://doi.org/10.1109/TETCI.2026.3738655)**
+ <br>Zhiwen Yu, Lizhu Wu, **Guojie Li**✉, Jane You, Kaixiang Yang, C. L. Philip Chen
+ <br>*IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2026
 
 > **[Semi-Supervised Ensemble Classifier Based on Distance Constraint for High-Dimensional Data](https://ieeexplore.ieee.org/document/11249808)**
   <br>***Guojie Li**; Ziwei Fan; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen*
