@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 🎓 Ph.D. Researcher in Machine Learning & Data Mining  
-🔬 Weakly-supervised Learning | Multi-view Learning | Robust AI  
+🔬 Continual learning ｜ Weakly-supervised Learning | Continual learning
 
 ---
 
@@ -20,19 +20,8 @@ My research lies at the intersection of:
 
 - Multi-view / Multi-modal Learning
 - Weakly & Semi-supervised Learning  
-- High-Dimensional and Incomplete Data Modeling 
+- Continual learning
 
-
-
----
-
-## 🔬 Research Highlights
-My research focuses on learning robust representations from high-dimensional, noisy, and label-scarce data, with key contributions in:
-
-- **Semi-supervised learning**: Ensemble and incremental frameworks for data with limited labels
-- **Graph learning**: Structure-aware and subspace-based similarity modeling  
-- **Multi-view learning**: Contrastive clustering with pseudo-label graph guidance  
-- **Robust optimization**: Improving generalization under noise, sparsity, and incompleteness  
 
 ---
 
