@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 🎓 Ph.D. Researcher in Machine Learning & Data Mining  
-🔬 Continual learning ｜ Weakly-supervised Learning | Continual learning
+🔬 Multi-Modal learning ｜ Weakly-supervised Learning | Continual learning
 
 ---
 
 ## 👋 About Me
 
-I am a third-year Ph.D. candidate in Computer Science and Technology at South China University of Technology (SCUT), advised by Prof. **Zhiwen Yu**, and a member of the Data Science and Artificial Intelligence Lab.
+I am a Ph.D. candidate in Computer Science and Technology at South China University of Technology (SCUT), advised by Prof. **Zhiwen Yu**, and a member of the Data Science and Artificial Intelligence Lab.
 My research focuses on robust representation learning under label scarcity and data heterogeneity.   
 My research lies at the intersection of:
 
